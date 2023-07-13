@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://cloud.api.123114.xyz/:match*"
+    }
+  ]
+}
